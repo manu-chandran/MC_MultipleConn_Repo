@@ -1,5 +1,5 @@
 - dashboard: mc_multiconn_model_dashboard
-  title: Manu_Dashboard
+  title: mc_multiconn_model_dashboard
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
